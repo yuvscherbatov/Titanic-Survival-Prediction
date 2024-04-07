@@ -1,4 +1,4 @@
-# Bank Churn Classification
+# Titanic Survival Prediction
 Это пет-проект по классификации пассажиров на борту корабля Титаник.
 ## Данные
 [Данные](https://www.kaggle.com/competitions/titanic/overview) для проекта взяты с Kaggle. Описание признаков в наборе данных содержится в файле **_EDA_**.
